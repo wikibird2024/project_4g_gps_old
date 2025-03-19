@@ -1,0 +1,2 @@
+source /home/hx/esp/testmpu6050/build/gdbinit/symbols
+source /home/hx/esp/testmpu6050/build/gdbinit/connect
