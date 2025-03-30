@@ -1,0 +1,2 @@
+source /home/xk/esp/project_4g_old/build/bootloader/gdbinit/symbols
+source /home/xk/esp/project_4g_old/build/bootloader/gdbinit/connect
